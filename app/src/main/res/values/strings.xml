@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample1201</string>
+    <string name="radioButton1">+</string>
+    <string name="radioButton2">-</string>
+    <string name="radioButton3">×</string>
+    <string name="radioButton4">÷</string>
+    <string name="textView1">=</string>
+    <string name="button1">計算</string>
+    <string name="button2">クリア</string>
+    <string name="edit_Text1" />
+    <string name="edit_Text2" />
+    <string name="message">何も入力されていません</string>
+</resources>
